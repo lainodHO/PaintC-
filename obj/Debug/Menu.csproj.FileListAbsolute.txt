@@ -1,0 +1,20 @@
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\bin\Debug\Menu.exe.config
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\bin\Debug\Menu.exe
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\bin\Debug\Menu.pdb
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.exe
+C:\Users\danie\OneDrive\Escritorio\Examen\Menu\obj\Debug\Menu.pdb
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\bin\Debug\Menu.exe.config
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\bin\Debug\Menu.exe
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\bin\Debug\Menu.pdb
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.exe
+C:\Users\danie\OneDrive\Escritorio\Escuela\4 Graficación\Proyectos Lujan\Menu\obj\Debug\Menu.pdb
